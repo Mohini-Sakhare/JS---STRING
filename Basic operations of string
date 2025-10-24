@@ -16,3 +16,18 @@ console.log("Concatenated String: " + res);
 
 output:-
 Concatenated String: JavaScript
+
+3. Escape Characters
+We can use escape characters in string to add single quotes, dual quotes, and backslash.
+
+\' - Inserts a single quote
+\" - Inserts a double quote 
+\\ - Inserts a backslash
+
+const s1 = "\'MS\' is a Web Developer";
+const s2 = "\"MS\" is a Web Developer";
+const s3 = "\\MS\\ is a Web Developer";
+
+console.log(s1);
+console.log(s2);
+console.log(s3);
