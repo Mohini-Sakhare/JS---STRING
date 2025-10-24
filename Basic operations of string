@@ -31,3 +31,8 @@ const s3 = "\\MS\\ is a Web Developer";
 console.log(s1);
 console.log(s2);
 console.log(s3);
+
+output:-
+'MS' is a Web Developer 
+"MS" is a Web Developer 
+\MS\ is a Web Developer 
