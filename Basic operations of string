@@ -15,3 +15,4 @@ let res = s1 + s2;
 console.log("Concatenated String: " + res);
 
 output:-
+Concatenated String: JavaScript
