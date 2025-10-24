@@ -6,3 +6,12 @@ console.log("String Length: " + len);
 
 output:-
 String Length: 10
+
+2. String Concatenation :-
+let s1 = 'Java';
+let s2 = 'Script';
+let res = s1 + s2;
+
+console.log("Concatenated String: " + res);
+
+output:-
