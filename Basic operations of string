@@ -43,3 +43,6 @@ const s = "'MOHINISAKHARE' is \
 a Web Developer";
 
 console.log(s);
+
+output:-
+'MOHINISAKHARE' is a Web Developer 
