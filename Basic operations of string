@@ -46,3 +46,11 @@ console.log(s);
 
 output:-
 'MOHINISAKHARE' is a Web Developer 
+
+5. Find Substring of a String
+We can extract a portion of a string using the substring() method.
+
+let s1 = 'JavaScript Tutorial';
+let s2 = s1.substring(0, 10);
+
+console.log(s2);
