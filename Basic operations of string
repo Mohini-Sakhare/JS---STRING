@@ -36,3 +36,10 @@ output:-
 'MS' is a Web Developer 
 "MS" is a Web Developer 
 \MS\ is a Web Developer 
+
+4. Breaking Long Strings
+Using a backslash (\) to break a long string is not recommended, as it is not supported in strict mode. Instead, use template literals or string concatenation.
+const s = "'MOHINISAKHARE' is \
+a Web Developer";
+
+console.log(s);
