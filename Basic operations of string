@@ -67,3 +67,7 @@ let lCase = s.toLowerCase();
 
 console.log(uCase);
 console.log(lCase);
+
+output:-
+JAVASCRIPT
+javascript
