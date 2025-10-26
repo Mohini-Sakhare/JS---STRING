@@ -82,3 +82,6 @@ console.log(i);
 
 output:-
 4
+
+8. String Replace in JavaScript
+Replace occurrences of a substring using the replace() method. By default, replace() only replaces the first occurrence. To replace all occurrences, use a regular expression with the g flag.
