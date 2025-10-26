@@ -79,3 +79,6 @@ let s1 = 'def abc abc';
 let i = s1.indexOf('abc');
 
 console.log(i);
+
+output:-
+4
