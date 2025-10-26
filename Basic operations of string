@@ -71,3 +71,11 @@ console.log(lCase);
 output:-
 JAVASCRIPT
 javascript
+
+7. String Search in JavaScript
+Find the first index of a substring within a string using indexOf() method
+
+let s1 = 'def abc abc';
+let i = s1.indexOf('abc');
+
+console.log(i);
