@@ -57,3 +57,13 @@ console.log(s2);
 
 output:-
 JavaScript
+
+6. Convert String to Uppercase and Lowercase
+Convert a string to uppercase and lowercase using toUpperCase() and toLowerCase() methods.
+
+let s = 'JavaScript';
+let uCase = s.toUpperCase();
+let lCase = s.toLowerCase();
+
+console.log(uCase);
+console.log(lCase);
