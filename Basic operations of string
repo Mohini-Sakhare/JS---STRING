@@ -85,3 +85,10 @@ output:-
 
 8. String Replace in JavaScript
 Replace occurrences of a substring using the replace() method. By default, replace() only replaces the first occurrence. To replace all occurrences, use a regular expression with the g flag.
+
+let s1 = 'Learn HTML and HTML is useful';
+let s2 = s1.replace(/HTML/g, 'JavaScript');
+
+console.log(s2);
+
+output 
