@@ -91,4 +91,5 @@ let s2 = s1.replace(/HTML/g, 'JavaScript');
 
 console.log(s2);
 
-output 
+output:-
+Learn JavaScript and JavaScript is useful
