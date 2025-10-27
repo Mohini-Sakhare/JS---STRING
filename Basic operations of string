@@ -105,3 +105,12 @@ console.log(s2);
 output:-
 Learn JavaScript
 
+10. Access Characters from String
+Access individual characters in a string using bracket notation and charAt() method
+
+let s1 = 'Learn JavaScript';
+let s2 = s1[6];
+console.log(s2);
+
+s2 = s1.charAt(6);
+console.log(s2);
