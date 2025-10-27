@@ -93,3 +93,11 @@ console.log(s2);
 
 output:-
 Learn JavaScript and JavaScript is useful
+
+9. Trimming Whitespace from String
+Remove leading and trailing whitespaces using trim() method.
+
+let s1 = '    Learn JavaScript       ';
+let s2 = s1.trim();
+
+console.log(s2);
