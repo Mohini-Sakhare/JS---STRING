@@ -101,3 +101,7 @@ let s1 = '    Learn JavaScript       ';
 let s2 = s1.trim();
 
 console.log(s2);
+
+output:-
+Learn JavaScript
+
